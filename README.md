@@ -25,20 +25,20 @@ milestones, ensuring client expectations are met with high-quality software solu
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-<code><img title="Selenium" height="25" src="https://th.bing.com/th/id/OIP.sBb3mgSh4OQyRdwc3kzqlwHaHL?rs=1&pid=ImgDetMain"></code>
-<code><img title="Cucumber" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/cucumber.svg"></code>
-<code><img title="JUnit" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/junit.svg"></code>
-<code><img title="TestNG" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/testng.svg"></code>
-<code><img title="Appium" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/appium.svg"></code>
-<code><img title="Rest Assured" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/rest-assured.svg"></code>
-<code><img title="Postman" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/postman.svg"></code>
-<code><img title="Jenkins" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/jenkins.svg"></code>
-<code><img title="Allure" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/allure.svg"></code>
-<code><img title="Robot Framework" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/robot-framework.svg"></code>
-<code><img title="GitHub Actions" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/github-actions.svg"></code>
-<code><img title="Maven" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/maven.svg"></code>
-<code><img title="Gradle" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/gradle.svg"></code>
-<code><img title="Docker" height="25" src="https://github.com/MohamedEmad111/MohamedEmad111/blob/master/images/docker.svg"></code>
+<code><img title="Selenium" height="25" src="https://www.logotypes101.com/logos/280/9CAA74982DF68DB2243DF3CE95F2D60C/selenium-logo.png"></code>
+<code><img title="Cucumber" height="25" src="https://th.bing.com/th/id/OIP.k0VsUVYCQoexwjZYyGnPtAHaDt?rs=1&pid=ImgDetMain"></code>
+<code><img title="JUnit" height="25" src="https://www.swtestacademy.com/wp-content/uploads/2015/11/Junit_Logo.png"></code>
+<code><img title="TestNG" height="25" src="https://4.bp.blogspot.com/-yjCdQKv58cM/Wg9EsvVibuI/AAAAAAAAErc/0VeSAT2tp18JDUFNxD5lK87jKK6fT0UNACLcBGAs/s1600/1.png"></code>
+<code><img title="Appium" height="25" src="https://th.bing.com/th/id/OIP.fIH1u9oKmDlLQOAL56wDCAHaFC?rs=1&pid=ImgDetMain"></code>
+<code><img title="Rest Assured" height="25" src="https://th.bing.com/th/id/OIP.DunQdZx6Up0GAdRTkXin7gHaGl?rs=1&pid=ImgDetMain"></code>
+<code><img title="Postman" height="25" src="https://logosdownload.com/logo/postman-logo-big.png"></code>
+<code><img title="Jenkins" height="25" src="https://th.bing.com/th/id/OIP.164u8ROsNLuAggpHo5QFBwHaFx?rs=1&pid=ImgDetMain"></code>
+<code><img title="Allure" height="25" src="https://images.opencollective.com/proxy/images?src=https%3A%2F%2Fopencollective-production.s3-us-west-1.amazonaws.com%2Fdfc89fd0-ff85-11e7-a77e-87408754420f.png&height=640"></code>
+<code><img title="Robot Framework" height="25" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_robotframework_icon_130193.png"></code>
+<code><img title="GitHub Actions" height="25" src="https://th.bing.com/th/id/OIP.05b5BHN45Y0ljD4nIDxD8AHaEK?rs=1&pid=ImgDetMain"></code>
+<code><img title="Maven" height="25" src="https://blog.irontec.com/wp-content/uploads/2019/12/1280px-Maven_logo.svg_-768x194.png"></code>
+<code><img title="Gradle" height="25" src="https://th.bing.com/th/id/OIP.gld8-HR5-gwxtaNwGdtQTAHaEK?rs=1&pid=ImgDetMain"></code>
+<code><img title="Docker" height="25" src="https://logopng.com.br/logos/docker-27.png"></code>
 
 
 </p>
