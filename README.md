@@ -13,9 +13,11 @@ milestones, ensuring client expectations are met with high-quality software solu
   🎓 Graduated with a solid foundation in computer science principles and
       methodologies. with a very good cumulative grade and an excellent grade for the
       graduation project.
+  <br>
 <br>
   📫 Mail me: <a href="mailto: mohamedemad12360@gmail.com">mohamedemad12360@gmail.com</a>
 <br>
+  <br>
   🔗 Contact me on Linkedin: [Mohamed Emad] ( https://www.linkedin.com/in/mohamed-emad-414101176/ )
  
 </p>
