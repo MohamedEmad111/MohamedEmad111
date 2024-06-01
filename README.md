@@ -1,6 +1,7 @@
 <br>
 <p align="center">
- Senior Quality Control Engineer experienced in automated testing, I have developed and executed test scripts using various tools and frameworks such as Selenium, Appium, and Rest Assured. My expertise extends to continuous integration and continuous deployment (CI/CD) processes, utilizing tools like Jenkins and GitHub Actions to streamline testing and improve efficiency.
+ Senior Quality Control Engineer experienced in automated testing,
+ I have developed and executed test scripts using various tools and frameworks such as Selenium, Appium, and Rest Assured. My expertise extends to continuous integration and continuous deployment (CI/CD) processes, utilizing tools like Jenkins and GitHub Actions to streamline testing and improve efficiency.
 <br>
 <!-- <br>
  <br>
