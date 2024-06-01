@@ -6,8 +6,10 @@ identifying defects. Able to easily collaborate with developers and project mana
 milestones, ensuring client expectations are met with high-quality software solutions
 <br>
 <br>
+ <br>
   🔬 I'm working as a senior Quality Control Engineer
 <br>
+ <br>
   🎓 Graduated with a solid foundation in computer science principles and
       methodologies. with a very good cumulative grade and an excellent grade for the
       graduation project.
