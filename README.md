@@ -1,6 +1,6 @@
 <br>
 <p align="center">
- Dedicated and detail-oriented Quality Control Engineer experienced in manual and automated testing across
+ Senior Quality Control Engineer experienced in manual and automated testing across
 various software development projects. Proficient in creating and executing test plans and test cases,
 identifying defects. Able to easily collaborate with developers and project managers to achieve project
 milestones, ensuring client expectations are met with high-quality software solutions
