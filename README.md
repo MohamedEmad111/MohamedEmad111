@@ -1,11 +1,8 @@
 <br>
 <p align="center">
- Senior Quality Control Engineer experienced in manual and automated testing across
-various software development projects. Proficient in creating and executing test plans and test cases,
-identifying defects. Able to easily collaborate with developers and project managers to achieve project
-milestones, ensuring client expectations are met with high-quality software solutions
+ Senior Quality Control Engineer experienced in automated testing, I have developed and executed test scripts using various tools and frameworks such as Selenium, Appium, and Rest Assured. My expertise extends to continuous integration and continuous deployment (CI/CD) processes, utilizing tools like Jenkins and GitHub Actions to streamline testing and improve efficiency.
 <br>
-<br>
+<!-- <br>
  <br>
   🔬 I'm working as a senior Quality Control Engineer
 <br>
@@ -13,7 +10,7 @@ milestones, ensuring client expectations are met with high-quality software solu
   🎓 Graduated with a solid foundation in computer science principles and
       methodologies. with a very good cumulative grade and an excellent grade for the
       graduation project.
-  <br>
+  <br> -->
 <br>
   📫 Mail me: <a href="mailto: mohamedemad12360@gmail.com">mohamedemad12360@gmail.com</a>
 <br>
